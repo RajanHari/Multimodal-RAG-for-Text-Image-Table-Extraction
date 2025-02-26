@@ -13,7 +13,7 @@ This project implements a **Multimodal Retrieval-Augmented Generation (RAG) pipe
 ## Installation
 Clone the repository and install dependencies:
 ```bash
-git clone https://github.com/yourusername/multimodal-rag.git
+https://github.com/RajanHari/Multimodal-RAG-for-Text-Image-Table-Extraction.git
 cd multimodal-rag
 pip install -r requirements.txt
 ```
