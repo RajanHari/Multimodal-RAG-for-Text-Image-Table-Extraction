@@ -1,0 +1,11 @@
+jpype1
+tabula-py
+PyMuPDF
+boto3
+requests
+numpy
+tqdm
+botocore
+langchain
+ipython
+faiss-cpu
