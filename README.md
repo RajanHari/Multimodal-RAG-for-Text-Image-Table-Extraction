@@ -11,10 +11,13 @@ This project implements a **Multimodal Retrieval-Augmented Generation (RAG) pipe
 - Demonstrated on the *"Attention Is All You Need"* research paper.
 
 ## Installation
-Clone the repository and install dependencies:
+Clone the repository:
 ```bash
 https://github.com/RajanHari/Multimodal-RAG-for-Text-Image-Table-Extraction.git
-cd multimodal-rag
+```
+and install dependencies:
+
+```bash
 pip install -r requirements.txt
 ```
 
